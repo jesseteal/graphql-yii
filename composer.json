@@ -3,7 +3,7 @@
     "type": "library",
     "description": "GraphQL, yii2 lib",
     "keywords": ["GraphQL","yii2"],
-    "homepage": "",
+    "homepage": "https://twotoneterrier.com",
     "license": "MIT",
     "authors": [
         {
@@ -14,7 +14,7 @@
     "require": {
         "php": ">=5.5.9",
         "illuminate/support": "5.1.*|5.2.*|5.3.*|5.4.*",
-        "webonyx/graphql-php": "0.9.*"
+        "webonyx/graphql-php": "^0.11"
     },
     "require-dev": {
 
